@@ -55,10 +55,12 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## My stats on GitHub
-
-[![Global stats](https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide=stars&count_private=true)](https://github.com/Kevsely)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevsely&layout=compact)](https://github.com/Kevsely)
-
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact)](https://github.com/Kevsely)
+
+## My stats on GitHub
+<a href="">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide=stars&count_private=true" />
+</a>
+<a href="">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevsely&layout=compact" />
+</a>
