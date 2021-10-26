@@ -47,7 +47,8 @@ I'm a **Full Stack Web Developer** used to :
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)  for Back
 
-## My stats this week
+## My stats
+### This week
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -56,13 +57,17 @@ No Activity tracked this Week
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact&v=2)](https://github.com/Kevsely)
 
-## My stats on GitHub
-<a href="">
+### All time
+<a href="https://github.com/Kevsely">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide=stars&count_private=true" />
 </a>
-<a href="">
+<a href="https://github.com/Kevsely">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevsely&layout=compact" />
 </a>
+
+### Best ones
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kevsely&ring=5194f0&fire=5194f0&currStreakLabel=5194f0)](https://github.com/Kevsely)
+
 
 
 ## Feel free to contact me 
