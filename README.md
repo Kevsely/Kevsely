@@ -48,8 +48,8 @@ I'm a **Full Stack Web Developer** used to :
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)  for Back
 
 ## My stats this week
-<!--START_SECTION:main-->
-<!--END_SECTION:main-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely)](https://github.com/Kevsely)
 
