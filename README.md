@@ -54,7 +54,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely)](https://github.com/Kevsely)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact&v=2)](https://github.com/Kevsely)
 
 ## My stats on GitHub
 <a href="">
