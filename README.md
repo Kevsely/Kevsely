@@ -1,19 +1,9 @@
-<!--
-**Kevsely/Kevsely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there 👋 I'm Elegis. 
+![gituhb](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)
+![yahoo](https://img.shields.io/badge/yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)
+![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
 My friends and programming buddies know this, but they never call me like that.
 They prefer to call me Kevsely or Kev saying I look more "geeky" that way. 😎
 
@@ -55,7 +45,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact)](https://github.com/Kevsely)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevsely)](https://github.com/Kevsely)
 
 ## My stats on GitHub
 <a href="">
@@ -64,3 +54,11 @@ No Activity tracked this Week
 <a href="">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevsely&layout=compact" />
 </a>
+
+
+## Feel free to contact me 
+
+![gituhb](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)
+![yahoo](https://img.shields.io/badge/yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)
+![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
