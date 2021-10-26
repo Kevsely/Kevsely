@@ -14,12 +14,12 @@
 
 
 My friends and programming buddies know it, but they never call me like that.
-They prefer to call me Kevsely or Kev saying I look more "geeky" that way. 😎
+They prefer to call me Kevsely or Kev saying it look more "geeky" that way. 😎
 
 If you find me somewhere, I'll probably be: 
 - Coding 👨‍💻
 - Thinking about a piece of code 🤔
-- Or trying to figure out a way to solve a bug in my codes 🤯 
+- Or trying to figure it out a way to solve a bug in my codes 🤯 
 
 No, I'm joking. When I'm not coding, I enjoy:
 - Eating 🤤
