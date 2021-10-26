@@ -58,10 +58,10 @@ No Activity tracked this Week
 
 ## My stats on GitHub
 <a href="">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide=stars&count_private=true" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide=stars&count_private=true" />
 </a>
 <a href="">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevsely&layout=compact" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevsely&layout=compact" />
 </a>
 
 
