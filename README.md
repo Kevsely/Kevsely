@@ -49,7 +49,8 @@ I'm a **Full Stack Web Developer** used to :
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)  for Back
 
 ## My stats this week
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My stats on GitHub
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
