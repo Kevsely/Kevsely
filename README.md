@@ -49,12 +49,6 @@ I'm a **Full Stack Web Developer** used to :
 
 ## My stats
 ### This week
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact&v=2)](https://github.com/Kevsely)
 
 ### All time
