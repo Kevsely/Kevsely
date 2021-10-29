@@ -48,6 +48,7 @@ I'm a **Full Stack Web Developer** used to :
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)  for Back
 
 ## My stats
+*(Usually takes a couple of days before update)*
 ### This week
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact&v=2)](https://github.com/Kevsely)
 
