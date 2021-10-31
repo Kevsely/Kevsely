@@ -48,11 +48,12 @@ I'm a **Full Stack Web Developer** used to :
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)  for Back
 
 ## My stats
-*(Usually takes a couple of days before update)*
+*(Usually takes a couple of days before update. Doesn't depend on me)*
 ### This week
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact&v=2)](https://github.com/Kevsely)
 
 ### All time
+
 <a href="https://github.com/Kevsely">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide=stars&count_private=true" />
 </a>
