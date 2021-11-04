@@ -68,7 +68,15 @@ I'm a **Full Stack Web Developer** used to :
 
 ## Feel free to contact me 
 
-![gituhb](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)
-![yahoo](https://img.shields.io/badge/yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white)
-![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://github.com/Kevsely">
+  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/Kevsely/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:elegis.sossou@yahoo.com">
+  <img align="center" src="https://img.shields.io/badge/yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />
+</a>
+<a href="mailto:elegis.sossou@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
