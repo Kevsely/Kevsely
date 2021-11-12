@@ -68,7 +68,7 @@ I'm a **Full Stack Web Developer** used to :
 
 ## Feel free to contact me 
 
-<a href="https://github.com/Kevsely">
+<a href='https://github.com/Kevsely'>
   <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/Kevsely/">
