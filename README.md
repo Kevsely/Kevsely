@@ -30,7 +30,7 @@ That was the funny (or not) about me.
 Hope you smile when reading. 🙂
 
 ## My technical skills 
-I'm a **Full Stack Web Developer** used to : 
+I'm a **Full-Stack Web Developer** used to : 
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
