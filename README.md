@@ -17,8 +17,8 @@ My friends and programming buddies know it, but they never call me like that.
 They prefer to call me Kevsely or Kev saying it look more "geeky" that way. 😎
 
 If you find me somewhere, I'll probably be: 
-- Coding 👨‍💻, 
-- Thinking about a piece of code 🤔, 
+- Coding 👨‍💻 
+- Thinking about a piece of code 🤔
 - Or trying to figure it out a way to solve a bug in my codes 🤯 
 
 No, I'm joking. When I'm not coding, I enjoy:
@@ -26,7 +26,7 @@ No, I'm joking. When I'm not coding, I enjoy:
 - Sleeping 😴  
 - or Skating ⛸ 
 
-That was the funny (or not) about me. 
+That was the funny (or not) about me... 
 Hope you smile when reading. 🙂
 
 ## My technical skills 
@@ -53,7 +53,6 @@ I'm a **Full-Stack Web Developer** used to :
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kevsely&layout=compact&v=2)](https://github.com/Kevsely)
 
 ### All time
-
 <a href="https://github.com/Kevsely">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kevsely&show_icons=true&hide=stars&count_private=true" />
 </a>
