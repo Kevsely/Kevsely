@@ -26,7 +26,7 @@ No, I'm joking. When I'm not coding, I enjoy:
 - Sleeping 😴  
 - or Skating ⛸ 
 
-That was the funny (or not) about me... 
+That was the funny (or not) about me....
 Hope you smile when reading. 🙂
 
 ## My technical skills 
