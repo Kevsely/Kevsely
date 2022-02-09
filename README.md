@@ -16,7 +16,7 @@
 My friends and programming buddies know it, but they never call me like that.
 They prefer to call me Kevsely or Kev saying it look more "geeky" that way. 😎
 
-If you find me somewhere, I'll probably be: 
+If you find me somewhere, so I'll probably be: 
 - Coding 👨‍💻 
 - Thinking about a piece of code 🤔
 - Or trying to figure it out a way to solve a bug in my codes 🤯 
